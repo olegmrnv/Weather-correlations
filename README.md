@@ -6,3 +6,8 @@ Following libraries are being used in this project: matplotlib, pandas, numpy, r
 This project has a continuation where I create HTML website using additional features: https://github.com/olegmrnv/weather_correlations
 
 Deployed site available here: https://olegmrnv.github.io/weather_correlations/
+
+![graphs](output_data/lat_vs_cloudiness.png "lat_vs_cloudiness")
+![graphs](output_data/lat_vs_humidity.png "lat_vs_humidity")
+![graphs](output_data/lat_vs_temp.png "lat_vs_temp")
+![graphs](output_data/lat_vs_windspeed.png "lat_vs_windspeed")
